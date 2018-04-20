@@ -1,5 +1,5 @@
 ## Welcome to my Home Page!
 
-_I am sorry, but this is under-construction :construction:_
+_I am sorry, this is under-construction._
 
-All I can give your right now is my [LinkedIn](https://www.linkedin.com/in/gustavovaliati) :relieved:
+**But for now I can give you my [LinkedIn](https://www.linkedin.com/in/gustavovaliati)! ;D**
