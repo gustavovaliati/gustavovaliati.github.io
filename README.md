@@ -1,7 +1,12 @@
 ## Greetings!
 
-I am a Master's degree student of the [Laboratory of Vision, Robotics and Imaging (VRI)](https://web.inf.ufpr.br/vri/) in the Federal University of Paraná (Brazil). I do research mainly in Computer Vision area, more specifically with pedestrian detection in video surveillance. From 2013 to 2016 I had been working in the [CELTAB](https://www.pti.org.br/celtab) as an internal researcher, and from 2009 to 2013 with IT in a hospital.
+Hi! I am Gustavo, a Software Enginner at [Loadsmart](https://loadsmart.com/).
 
-Since 2016, I also have been working as Systems Analyst at the [Itaipu Technological Park](https://www.pti.org.br/en).
+I am more than happy to share with you some of my professional and academic highlights:
+- In 2019 I achieved my [Master's in Computer Vision](https://web.inf.ufpr.br/vri/). 
+- From 2016 to 2019 I've worked as a Systems Analyst at the [Itaipu Technological Park](https://www.pti.org.br/en).
+- From 2013 to 2016 I had been working in the [CELTAB](https://www.pti.org.br/celtab) as an internal researcher.
+- In 2013 I achieved my degree of [Systems Analysis and Development](http://www.utfpr.edu.br/english).
+- And from 2009 to 2013 with IT in a hospital at my home-town.
 
 Here you can check my [LinkedIn](https://www.linkedin.com/in/gustavovaliati) and my [repository](https://github.com/gustavovaliati).
